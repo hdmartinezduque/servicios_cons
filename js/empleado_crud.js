@@ -1,0 +1,4 @@
+
+function actualizar(){
+    alert("Actualizar");
+}
